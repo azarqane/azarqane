@@ -1,4 +1,4 @@
-![Bannière de mon profil GitHub](header.png)
+![Bannière de mon profil GitHub](Banner-contact-vue-aerienne-toulouse.jpg)
 
 🔭 Je travaille actuellement sur la **conception d’architectures Zero Trust** et le **déploiement d’environnements hybrides Azure/On-Prem**
 🌱 J’approfondis mes compétences en **Kubernetes (K8s)**, **Terraform**, et **gestion des identités avec Azure AD / Entra ID**  
