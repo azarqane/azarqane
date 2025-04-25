@@ -1,12 +1,14 @@
 ![Bannière de mon profil GitHub](Banner-contact-vue-aerienne-toulouse.jpg)
 
-🔭 Je travaille actuellement sur la **conception d’architectures Zero Trust** et le **déploiement d’environnements hybrides Azure/On-Prem**
+📍 Toulouse, France | 🌍 Remote
 
-🌱 J’approfondis mes compétences en **Kubernetes (K8s)**, **Terraform**, et **gestion des identités avec Azure AD / Entra ID**  
+🔭 I'm currently working on the **design of Zero Trust architectures** and the **deployment of hybrid Azure/On-Prem environments**
 
-👯 Je suis ouvert aux collaborations sur des projets de **cybersécurité défensive (SOC/Blue Team)**, de **MCO**, et de **virtualisation avancée avec Proxmox et VMware**  
+🌱 I'm expanding my expertise in **Kubernetes (K8s)**, **Terraform**, and **identity management with Azure AD / Entra ID**
 
-💬 Discutons de **SIEM (Splunk, Wazuh)**, **EDR/XDR**, **Active Directory Hardened**, **Cloud Security Posture Management (CSPM)**, **reverse proxy avec NGINX**, ou de comment construire un **Système d’Information robuste, évolutif et sécurisé**
-ou de ma manière d’apporter de la **structure**, de la **clarté** et de la **coordination** aux projets IT.  
+👯 I'm open to collaborations on **defensive cybersecurity projects (SOC/Blue Team)**, **IT operations and lifecycle management (MCO)**, and **advanced virtualization with Proxmox and VMware**
 
-📫 Pour me contacter : a.zarqane@icloud.com — ou retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/zarqane/) et sur [mon portfolio](https://azarqane.github.io/Portfolio/)
+💬 Let's talk about **SIEM (Splunk, Wazuh)**, **EDR/XDR**, **Hardened Active Directory**, **Cloud Security Posture Management (CSPM)**, **reverse proxies with NGINX**, or how to build a **robust, scalable, and secure Information System**  
+as well as how I bring **structure**, **clarity**, and **coordination** to IT projects.
+
+📫 Contact me: a.zarqane@icloud.com — or connect with me on [LinkedIn](https://www.linkedin.com/in/zarqane/) and check out [my portfolio](https://azarqane.github.io/Portfolio/)
