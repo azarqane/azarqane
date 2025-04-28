@@ -11,4 +11,4 @@
 💬 Let's talk about **SIEM (Splunk, Wazuh)**, **EDR/XDR**, **Hardened Active Directory**, **Cloud Security Posture Management (CSPM)**, **reverse proxies with NGINX**, or how to build a **robust, scalable, and secure Information System**  
 as well as how I bring **structure**, **clarity**, and **coordination** to IT projects.
 
-📫 Contact me: a.zarqane@icloud.com — or connect with me on [LinkedIn](https://www.linkedin.com/in/zarqane/) and check out [my portfolio](https://azarqane.github.io/Portfolio/)
+📫 Contact me: a.zarqane@icloud.com — or connect with me on [LinkedIn](https://www.linkedin.com/in/zarqane/) and check out [my portfolio](https://azarqane.github.io)
