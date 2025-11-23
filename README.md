@@ -12,26 +12,3 @@
 as well as how I bring **structure**, **clarity**, and **coordination** to IT projects.
 
 📫 Contact me: a.zarqane@icloud.com — or connect with me on [LinkedIn](https://www.linkedin.com/in/zarqane/) and check out [my portfolio](https://azarqane.github.io)
-[Settings]
-Priority=Default
-Properties=MyCustomProperty
-
-[Default]
-_SMSTSORGNAME=Mon Organisation
-OSInstall=Y
-SkipCapture=YES
-SkipAdminPassword=YES
-SkipProductKey=YES
-SkipComputerBackup=YES
-SkipBitLocker=YES
-SkipTimeZone=YES
-SkipLocaleSelection=YES
-KeyboardLocale=fr-FR
-UserLocale=fr-FR
-UILanguage=fr-FR
-TimeZoneName=Romance Standard Time
-SkipDomainMembership=YES
-JoinWorkgroup=WORKGROUP
-SkipSummary=YES
-SkipFinalSummary=YES
-FinishAction=REBOOT
