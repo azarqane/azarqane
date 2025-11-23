@@ -2,13 +2,12 @@
 
 📍 Toulouse, France | 🌍 Remote
 
-🔭 I'm currently working on the **design of Zero Trust architectures** and the **deployment of hybrid Azure/On-Prem environments**
+🔭 I'm currently building DataRoom, a secure SaaS platform, while refining DevOps pipelines and Zero Trust architectures. 
 
-🌱 I'm expanding my expertise in **Kubernetes (K8s)**, **Terraform**, and **identity management with Azure AD / Entra ID**
+🌱 I'm expanding my expertise in Kubernetes (K8s), Terraform, and automating infrastructure via IaC on Azure. 
 
-👯 I'm open to collaborations on **defensive cybersecurity projects (SOC/Blue Team)**, **IT operations and lifecycle management (MCO)**, and **advanced virtualization with Proxmox and VMware**
+👯 I'm open to collaborations on SaaS development, DevSecOps workflows, and modernizing IT operations through automation. 
 
-💬 Let's talk about **SIEM (Splunk, Wazuh)**, **EDR/XDR**, **Hardened Active Directory**, **Cloud Security Posture Management (CSPM)**, **reverse proxies with NGINX**, or how to build a **robust, scalable, and secure Information System**  
-as well as how I bring **structure**, **clarity**, and **coordination** to IT projects.
+💬 Let's talk about CI/CD strategies, building scalable SaaS architectures, Cloud Security, or how I leverage my background in SOC/Blue Team to secure modern applications.
 
 📫 Contact me: a.zarqane@icloud.com — or connect with me on [LinkedIn](https://www.linkedin.com/in/zarqane/) and check out [my portfolio](https://azarqane.github.io)
